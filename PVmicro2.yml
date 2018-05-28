@@ -3,7 +3,6 @@
   "kind": "PersistentVolume",
   "metadata": {
     "name": "micro2"
-    }
   },
   "spec": {
     "capacity": {
